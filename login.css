@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    font-size: 62.5%;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 60%;
+    margin: 30px auto;
+    padding: 30px;
+}
+.form-item{
+    font-size: 1.8em;
+    margin: 25px;
+}
+#reg-btn{
+    display: block;
+    font-size: 1.8em;
+    margin: 25px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color:antiquewhite;
+    font-size: 62.5%;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    background-color: white;
+    width: 70%;
+    margin: 10px auto;
+}
+#heading{
+    text-align: center;
+    background-color: darkgrey;
+}
+.form-item{
+    margin: 20px;
+    font-size: 1.8em;
+}
+#reg-btn{
+    font-size: 1.8em;
+    width: 80px;
+    display: block;
+    margin: 20px;
+}
